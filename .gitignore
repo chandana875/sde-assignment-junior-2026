@@ -1,0 +1,10 @@
+.venv/
+data/
+data_large/
+reports/
+reports_large/
+*.db
+*.db-wal
+*.db-shm
+__pycache__/
+.pytest_cache/
